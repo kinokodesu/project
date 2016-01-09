@@ -1,0 +1,24 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+.center{
+    text-align: center;
+}
+
+.bigbox{
+    width: 100vw;
+    height: 100vw;
+    /*background: red;*/
+}
+
+.smlbox{
+    border-radius: 10px;
+    background: orange;
+    width: 29.33%;
+    height: 29.33%;
+    margin: 1%;
+    padding: 1%;
+    float: left;
+}
